@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Czu/EuuWsr/oVi32EXB1hMMKaJU7ukcW1iZaANtA4QOpkJY7jBvXetxDsz+hRqACSWVVOHbwvOLBmI9H5OkNHQ==",
+  "success": true,
+  "projectFilePath": "D:\\_WinForm\\FormulationQuantification\\FormulationQuantification.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIOBIO\\.nuget\\packages\\litjson\\0.18.0\\litjson.0.18.0.nupkg.sha512"
+  ],
+  "logs": []
+}

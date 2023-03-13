@@ -1,0 +1,82 @@
+[
+  {
+    "name": "水",
+    "factory": "水井",
+    "formulas": null,
+    "num": 2
+  },
+  {
+    "name": "小麦",
+    "factory": "种植农场",
+    "formulas": [
+      {
+        "item": "水",
+        "num": 1
+      }
+    ],
+    "num": 2
+  },
+  {
+    "name": "棉花",
+    "factory": "种植园",
+    "formulas": [
+      {
+        "item": "水",
+        "num": 1
+      }
+    ],
+    "num": 2
+  },
+  {
+    "name": "浆果",
+    "factory": "种植园",
+    "formulas": [
+      {
+        "item": "水",
+        "num": 1
+      }
+    ],
+    "num": 2
+  },
+  {
+    "name": "纤维",
+    "factory": "纺织厂",
+    "formulas": [
+      {
+        "item": "棉花",
+        "num": 4
+      }
+    ],
+    "num": 4
+  },
+  {
+    "name": "染料",
+    "factory": "纺织厂",
+    "formulas": [
+      {
+        "item": "浆果",
+        "num": 4
+      },
+      {
+        "item": "水",
+        "num": 2
+      }
+    ],
+    "num": 4
+  },
+  {
+    "name": "轻薄面料",
+    "factory": "纺织厂",
+    "formulas": [
+      {
+        "item": "纤维",
+        "num": 2
+      },
+      {
+        "item": "染料",
+        "num": 1
+      }
+    ],
+    "num": 2
+  }
+]
